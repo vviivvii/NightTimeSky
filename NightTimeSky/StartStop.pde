@@ -1,4 +1,3 @@
-
 void startStop() {
   if (keyPressed) {
     if (key == ' ') {
